@@ -1,4 +1,4 @@
-# Birds_Embryo_Curvature
+# Bird_Embryos_Curvature
 
 * **Developed by:** Thomas & Héloïse
 * **Developed for:** Romain
